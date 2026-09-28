@@ -58,6 +58,7 @@ const allowedOrigins = [
     "http://localhost:5173",
     "http://localhost:8081",
     "http://localhost:8082",
+    "https://shepherdadmin.onrender.com"
 ];
 
 app.use(
