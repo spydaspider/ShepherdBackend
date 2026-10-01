@@ -52,6 +52,8 @@ serviceType:{
         "Funeral",
 
         "Wedding",
+        
+        "Communion Service",
 
         "Other"
 
